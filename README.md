@@ -12,5 +12,6 @@
 
 - Twitter: [@ushibutatory](https://twitter.com/ushibutatory)
 - Blog: [ushibutatorism](https://ushibutatory.hateblo.jp/)
+- Zenn: [ushibutatory](https://zenn.dev/ushibutatory)
 - Qiita: [ushibutatory](https://qiita.com/ushibutatory)
 - GitHub: Here
