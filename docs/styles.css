@@ -8,6 +8,19 @@ body {
   min-width: 16rem;
 }
 
+#tbl-profile {
+  width: 25%;
+  min-width: 32rem;
+}
+#tbl-profile th {
+  text-align: right;
+  padding: 0.25rem;
+}
+#tbl-profile td {
+  text-align: left;
+  padding: 0.25rem;
+}
+
 .card {
   max-width: 18rem;
   margin: 0.5rem;
