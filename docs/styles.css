@@ -21,7 +21,11 @@ body {
   padding: 0.25rem;
 }
 
-.card {
+.category {
+  margin: 2rem;
+}
+
+.category .card {
   max-width: 18rem;
   margin: 0.5rem;
 }
