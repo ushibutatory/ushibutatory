@@ -1,15 +1,27 @@
 function loadCards() {
   const data = [
     {
+      src: "",
+      title: "Blog",
+      text: "雑記です。",
+      href: "https://ushibutatory.hateblo.jp/",
+    },
+    {
       src: "images/github.png",
       title: "GitHub",
       text: "個人開発や技術検証に使用しています。",
       href: "https://github.com/ushibutatory",
     },
     {
+      src: "",
+      title: "Zenn",
+      text: "技術記事を書ける時に書いています。",
+      href: "https://zenn.dev/ushibutatory",
+    },
+    {
       src: "images/",
       title: "Twitter / X",
-      text: "個人の見解です。",
+      text: "日々の呟きです。",
       href: "https://twitter.com/ushibutatory",
     },
     {
