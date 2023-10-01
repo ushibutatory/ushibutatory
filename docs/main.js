@@ -31,9 +31,15 @@ function loadCards() {
       href: "https://www.instagram.com/ushibutatory/",
     },
     {
+      src: "",
+      title: "YouTube",
+      text: "ごくまれに動画を投稿します。",
+      href: "https://www.youtube.com/channel/UCfg46UpZVeVx8d8MW--J9TA",
+    },
+    {
       src: "images/",
       title: "ウマ娘誕生日カレンダー",
-      text: "作りました。",
+      text: "各種カレンダーアプリで表示できるように、iCalendarを配信しています。",
       href: "https://umamusume-birthdays.ushibutatory.net/",
     },
   ];
