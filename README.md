@@ -11,4 +11,4 @@
 # links
 
 - Twitter: [@ushibutatory](https://twitter.com/ushibutatory)
-- [Others](https://linktr.ee/ushibutatory)
+- [ushibutatory.net](https://ushibutatory.net)
