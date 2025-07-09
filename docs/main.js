@@ -60,13 +60,13 @@
     {
       src: "",
       title: "Twitter / X",
-      text: "日々の呟きです。",
+      text: "雑多な呟きです。",
       href: "https://twitter.com/ushibutatory",
     },
     {
       src: "",
       title: "Instagram",
-      text: "いいなぁと思ったものを撮っています。",
+      text: "いいなぁと思ったものを撮って時々更新しています。",
       href: "https://www.instagram.com/ushibutatory/",
     },
   ]);
@@ -98,6 +98,12 @@
       title: "ウマ娘\r\n誕生日カレンダー",
       text: "各種カレンダーアプリで表示できるように、iCalendarを配信しています。",
       href: "https://umamusume-birthdays.ushibutatory.net/",
+    },
+    {
+      src: "",
+      title: "[Unity]\r\nランダム箱入り娘",
+      text: "ランダム生成される箱入り娘パズルゲームです。",
+      href: "https://github.com/ushibutatory/game-hakoirimusume-pages",
     },
     {
       src: "",
