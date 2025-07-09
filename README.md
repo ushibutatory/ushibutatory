@@ -1,8 +1,7 @@
 # Profile
 
 - Name: **ushibutatory**
-- I like .NET.
-- I'm studing AWS.
+- 仕事では .NET の開発をしていました。
 
 # Stats
 
