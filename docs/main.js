@@ -95,15 +95,21 @@
   loadCards($("#cards_artifact"), [
     {
       src: "",
-      title: "ウマ娘\r\n誕生日カレンダー",
-      text: "各種カレンダーアプリで表示できるように、iCalendarを配信しています。",
-      href: "https://umamusume-birthdays.ushibutatory.net/",
+      title: "[Unity]\r\nAI星座づくり",
+      text: "星座を描くとAIが名前をつけてくれるゲーム（？）です。",
+      href: "https://github.com/ushibutatory/game-stella_generator-pages",
     },
     {
       src: "",
       title: "[Unity]\r\nランダム箱入り娘",
       text: "ランダム生成される箱入り娘パズルゲームです。",
       href: "https://github.com/ushibutatory/game-hakoirimusume-pages",
+    },
+    {
+      src: "",
+      title: "ウマ娘\r\n誕生日カレンダー",
+      text: "各種カレンダーアプリで表示できるように、iCalendarを配信しています。",
+      href: "https://umamusume-birthdays.ushibutatory.net/",
     },
     {
       src: "",
