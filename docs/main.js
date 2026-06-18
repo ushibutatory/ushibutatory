@@ -26,7 +26,7 @@
                 title.append(text);
               }
               return title;
-            })()
+            })(),
           );
           return cardHeader;
         })(),
@@ -41,10 +41,10 @@
                 text.innerText = _.text;
               }
               return text;
-            })()
+            })(),
           );
           return cardBody;
-        })()
+        })(),
       );
       $cardDeck.append(card);
     });
@@ -95,9 +95,15 @@
   loadCards($("#cards_artifact"), [
     {
       src: "",
-      title: "[Unity]\r\nAI星座づくり",
-      text: "星座を描くとAIが名前をつけてくれるゲーム（？）です。",
-      href: "https://github.com/ushibutatory/game-stella_generator-pages",
+      title: "見た夢 | note",
+      text: "見た夢の話を書いています。",
+      href: "https://note.com/ushibutatory/m/m61dfeda2f36d",
+    },
+    {
+      src: "",
+      title: "YouTube",
+      text: "ごくまれに動画を投稿します。",
+      href: "https://www.youtube.com/channel/UCfg46UpZVeVx8d8MW--J9TA",
     },
     {
       src: "",
@@ -107,15 +113,9 @@
     },
     {
       src: "",
-      title: "ウマ娘\r\n誕生日カレンダー",
-      text: "各種カレンダーアプリで表示できるように、iCalendarを配信しています。",
-      href: "https://umamusume-birthdays.ushibutatory.net/",
-    },
-    {
-      src: "",
-      title: "YouTube",
-      text: "ごくまれに動画を投稿します。",
-      href: "https://www.youtube.com/channel/UCfg46UpZVeVx8d8MW--J9TA",
+      title: "[Unity]\r\nAI星座づくり",
+      text: "星座を描くとAIが名前をつけてくれるゲーム（？）です。",
+      href: "https://github.com/ushibutatory/game-stella_generator-pages",
     },
   ]);
 })();
